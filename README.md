@@ -1,19 +1,20 @@
 
 ## KWAK SEUNG YEOP
 
-### 🏫 Soongsil Univ - Computer Science & Engineering
+<br>
 
-### 📚 Study 
+## 📚 Study 
 <a href="https://ultra-split-d45.notion.site/6a3e8553a65d44fea53a2869e5485dc2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-### 📬 Email 
+<br>
+
+## 📬 Email 
 <a href="mailto:kwak991021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:tmdduq102@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <br>
 
-## Stack
-
+## 🔨 Stack
 ### used as the main
 <div>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -52,7 +53,7 @@
 
 <br>
 
-## Stats
+## 🥔 Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeopseung)](https://solved.ac/yeopseung/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeopseung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
